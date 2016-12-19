@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Biers</string>
+    <string name="add_notification">Notification</string>
+    <string name="notification_title">Notif</string>
+    <string name="notification_desc">Don\'t click</string>
+    <string name="secondeActivite">New Activity</string>
+    <string name="txt">Welcome on Biers</string>
+    <string name="maps">Maps</string>
+    <string name="toast">Useless Toast</string>
+    <string name="search">Search</string>
+    <string name="YT">Search on YouTube</string>
+
+</resources>

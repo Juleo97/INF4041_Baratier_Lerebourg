@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bières</string>
+    <string name="add_notification">Notification</string>
+    <string name="notification_title">Notif FR</string>
+    <string name="notification_desc">Cliquez pas</string>
+    <string name="secondeActivite">Nouvelle Activité</string>
+    <string name="txt">Bienvenu sur bières</string>
+    <string name="maps">Plans</string>
+    <string name="toast">Toast inutile</string>
+    <string name="search">Recherche</string>
+    <string name="YT">Recherche sur YouTube</string>
+</resources>
